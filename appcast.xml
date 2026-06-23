@@ -3,18 +3,21 @@
     <channel>
         <title>Lunarbeam</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Mon, 22 Jun 2026 22:05:57 +0200</pubDate>
-            <sparkle:version>0.1.1</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Tue, 23 Jun 2026 13:36:09 +0200</pubDate>
+            <sparkle:version>0.1.2</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>body{font:14px/1.65 -apple-system,system-ui,sans-serif;color:#1d2122;margin:0;padding:16px 18px}h2{font-size:15px;font-weight:600;margin:0 0 12px}ul{margin:0;padding-left:18px}li{margin:6px 0}li::marker{color:#f9a600}</style>
-<h2>What’s new in 0.1.1</h2><ul>
-<li>- Test new</li>
-<li>- Test new</li>
+<h2>What's new in 0.1.2</h2><ul>
+<li>A new home screen that greets you with your recent projects and live thumbnails.</li>
+<li>Much smoother canvas panning and zooming, even on large multi-page projects.</li>
+<li>One-click publishing to Vercel with custom-domain setup, right inside the app.</li>
+<li>A built-in SEO panel that audits every page and fixes issues for you.</li>
+<li>Quality and reliability polish throughout.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam-0.1.1.dmg" length="5667176" type="application/octet-stream" sparkle:edSignature="4So4pTtBEPhRCPAF4aBcGrBo2qrUZxbUws6CWmIgBdbkvYM98ZYA72UixfT02kcnwYFsB4eJoX7Lyt2/iwowBw=="/>
+            <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam-0.1.2.dmg" length="7165100" type="application/octet-stream" sparkle:edSignature="YqcveAxmEbCAv/HS1ByDM3UHBOdSMxI0wuC8AqBmw6hoskmVITK0fR3PqGE38xlU5B7mUYu57W0t4qFPAbMoDg=="/>
         </item>
     </channel>
 </rss>
