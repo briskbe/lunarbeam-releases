@@ -3,6 +3,26 @@
     <channel>
         <title>Lunarbeam</title>
         <item>
+            <title>0.1.7</title>
+            <pubDate>Tue, 23 Jun 2026 15:01:53 +0200</pubDate>
+            <sparkle:version>0.1.7</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:14px/1.65 -apple-system,system-ui,sans-serif;color:#1d2122;margin:0;padding:16px 18px}h2{font-size:15px;font-weight:600;margin:0 0 12px}ul{margin:0;padding-left:18px}li{margin:6px 0}li::marker{color:#f9a600}@media (prefers-color-scheme:dark){body{color:#e7e9ea}}</style>
+<h2>What's new in 0.1.7</h2><ul>
+<li>Fixed the address shown after publishing so it always points to your own Vercel deployment, even when the project name is taken elsewhere on Vercel.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam-0.1.7.dmg" length="7436228" type="application/octet-stream" sparkle:edSignature="2Vv4H47tpvM7uYbe3Q4nvpmQx7935DkpXwqiG3zr+oq6x/SyJwJE23KG7d6MtqTPSz1pZQAAOXpMe38e2W9FAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.7-0.1.6.delta" sparkle:deltaFrom="0.1.6" length="500194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yAH6v2GaF1GCKaGMt9HZmWXj2FQo7f1Ve58MD/l1y3plhq8K44tY4lmxPJyUw6Ziab9WIUshOUmG+ehrK0IdAA=="/>
+                <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.7-0.1.5.delta" sparkle:deltaFrom="0.1.5" length="678426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/WR0ACPEqJ1+FBnASk3eYmBoNQ49bkkpwXoYb3byw5qVO30jiNEnNOAu8fyqK8mBBGp5UnjkqRSXZBzA9GjFCg=="/>
+                <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.7-0.1.4.delta" sparkle:deltaFrom="0.1.4" length="709182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rhyFvzRxR+tTbHTxBKUVHfVI24b8Ynj7N1UGGG4cdOo+GJHdX0Do/H8fH/UzXuxKgMYqhPRnnJjBiOFU+9IIDA=="/>
+                <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.7-0.1.3.delta" sparkle:deltaFrom="0.1.3" length="788154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JyApd4JVgp3wJjxiYvrB2926WGgMcJUGmJomZkdHU+P7oD1qtXcH03mu6McJjRuqzk4EwMqkRvFMVcmsaaX9AA=="/>
+                <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.7-0.1.2.delta" sparkle:deltaFrom="0.1.2" length="959090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IYBjpfoXFrEjH+i+I03psg8uYtemBJWCIXzijx+ThIfDFeb0QUNjovojKS43Mg0+JaJWjy9I1uzcg9C9pHyRDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.6</title>
             <pubDate>Tue, 23 Jun 2026 14:49:08 +0200</pubDate>
             <sparkle:version>0.1.6</sparkle:version>
@@ -38,23 +58,6 @@
                 <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.5-0.1.4.delta" sparkle:deltaFrom="0.1.4" length="553186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hlc1e0dWueuRb+B4jP8R+5CKXKaSaogSjOgVFrE7V1cIrWoVCz43O/qiSPmQayf05AMKHzDGs+Ijc3i06C8rAg=="/>
                 <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.5-0.1.3.delta" sparkle:deltaFrom="0.1.3" length="629814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1NYd4P5HsYgljLwch0PdQdzrnZdyceXv2lJSgX3tX03uIdWpIRoKT9LodmBd6RrqogHFkPFl/zRP0xs7x9fLDw=="/>
                 <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.5-0.1.2.delta" sparkle:deltaFrom="0.1.2" length="917190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MRPq9wzWE2f/gPYThvg2hOs78VjZy5vVsQlu8NA/r9TVWkLsZ3F2yuvj5jXnS0NC81z0ndX31JaIvT4nrzSLAQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.4</title>
-            <pubDate>Tue, 23 Jun 2026 14:07:51 +0200</pubDate>
-            <sparkle:version>0.1.4</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:14px/1.65 -apple-system,system-ui,sans-serif;color:#1d2122;margin:0;padding:16px 18px}h2{font-size:15px;font-weight:600;margin:0 0 12px}ul{margin:0;padding-left:18px}li{margin:6px 0}li::marker{color:#f9a600}@media (prefers-color-scheme:dark){body{color:#e7e9ea}}</style>
-<h2>What's new in 0.1.4</h2><ul>
-<li>Fixed a crash that could happen the first time you sent a prompt to the agent. Building now works reliably in the installed app.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam-0.1.4.dmg" length="7374494" type="application/octet-stream" sparkle:edSignature="UBbtSsaLBVlB8zrCJQGN8hUJNdGbHCUxtJbcT/sIo+lroiV8guZ/QAZx8nqfYmTKsNcX4oC+1WVftC2ZGhzTCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.4-0.1.3.delta" sparkle:deltaFrom="0.1.3" length="92034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xJGHJRhHn96gRS33vA5Q8YZ0zPiXLsFIRbFPM3V9wQiq5kMaKj/xgZX3AaYTSF7L17abjv1lHvq//SjsZqDBAQ=="/>
-                <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.4-0.1.2.delta" sparkle:deltaFrom="0.1.2" length="871450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EfzcgUCxwadswBWqWu6gX3cWSKFVgV5xPEs6un2R/wSnkWuUuXPV6rETQfpR6n9b1zT6z3aG6/KzvmZID16bCA=="/>
             </sparkle:deltas>
         </item>
     </channel>
