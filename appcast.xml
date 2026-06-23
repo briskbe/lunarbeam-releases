@@ -3,6 +3,24 @@
     <channel>
         <title>Lunarbeam</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Tue, 23 Jun 2026 14:34:33 +0200</pubDate>
+            <sparkle:version>0.1.5</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>body{font:14px/1.65 -apple-system,system-ui,sans-serif;color:#1d2122;margin:0;padding:16px 18px}h2{font-size:15px;font-weight:600;margin:0 0 12px}ul{margin:0;padding-left:18px}li{margin:6px 0}li::marker{color:#f9a600}</style>
+<h2>What's new in 0.1.5</h2><ul>
+<li>Name your Vercel project right in the Publish panel, with a live preview of the address it will create, instead of defaulting to "untitled-project".</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam-0.1.5.dmg" length="7405600" type="application/octet-stream" sparkle:edSignature="PZoxhLC+1SUYU5VqA+JtiByEoCrHJqSzW7peNsPi857hzzr6Grg9NVV0Ksz/w8UA59YDol9Mg/XWjiNwJVi5BQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.5-0.1.4.delta" sparkle:deltaFrom="0.1.4" length="553186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hlc1e0dWueuRb+B4jP8R+5CKXKaSaogSjOgVFrE7V1cIrWoVCz43O/qiSPmQayf05AMKHzDGs+Ijc3i06C8rAg=="/>
+                <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.5-0.1.3.delta" sparkle:deltaFrom="0.1.3" length="629814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1NYd4P5HsYgljLwch0PdQdzrnZdyceXv2lJSgX3tX03uIdWpIRoKT9LodmBd6RrqogHFkPFl/zRP0xs7x9fLDw=="/>
+                <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.5-0.1.2.delta" sparkle:deltaFrom="0.1.2" length="917190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MRPq9wzWE2f/gPYThvg2hOs78VjZy5vVsQlu8NA/r9TVWkLsZ3F2yuvj5jXnS0NC81z0ndX31JaIvT4nrzSLAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Tue, 23 Jun 2026 14:07:51 +0200</pubDate>
             <sparkle:version>0.1.4</sparkle:version>
@@ -36,23 +54,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam0.1.3-0.1.2.delta" sparkle:deltaFrom="0.1.2" length="791102" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FRZGtDMGbQT+El3s3YKE/DKJRmHhkLm/dbfBYRAUc1WBo/R2iU2R/Ur71Gv01oWdhXnnyWod05S+Nnr00tZADw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.2</title>
-            <pubDate>Tue, 23 Jun 2026 13:36:09 +0200</pubDate>
-            <sparkle:version>0.1.2</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<style>body{font:14px/1.65 -apple-system,system-ui,sans-serif;color:#1d2122;margin:0;padding:16px 18px}h2{font-size:15px;font-weight:600;margin:0 0 12px}ul{margin:0;padding-left:18px}li{margin:6px 0}li::marker{color:#f9a600}</style>
-<h2>What's new in 0.1.2</h2><ul>
-<li>A new home screen that greets you with your recent projects and live thumbnails.</li>
-<li>Much smoother canvas panning and zooming, even on large multi-page projects.</li>
-<li>One-click publishing to Vercel with custom-domain setup, right inside the app.</li>
-<li>A built-in SEO panel that audits every page and fixes issues for you.</li>
-<li>Quality and reliability polish throughout.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam-0.1.2.dmg" length="7165100" type="application/octet-stream" sparkle:edSignature="YqcveAxmEbCAv/HS1ByDM3UHBOdSMxI0wuC8AqBmw6hoskmVITK0fR3PqGE38xlU5B7mUYu57W0t4qFPAbMoDg=="/>
         </item>
     </channel>
 </rss>
