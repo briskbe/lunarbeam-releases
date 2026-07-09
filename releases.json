@@ -1,0 +1,161 @@
+{
+  "$comment": "Fallback/seed for the changelog page, RSS feed, and download button. In production the site reads the live feed (mac/release.command publishes releases.json to GitHub Pages on every ship); this file is used when that feed is unreachable or empty. Download links are derived from the GitHub release assets automatically — no URL needed. Entries with \"notarized\": false stay hidden until notarization completes.",
+  "releases": [
+    {
+      "version": "0.2.3",
+      "iso": "2026-07-09",
+      "title": "Lunarbeam 0.2.3",
+      "notarized": true,
+      "changes": [
+        {
+          "kind": "New",
+          "text": "Pexels stock photo picker in the image panel — search and apply free photos with one tap"
+        },
+        {
+          "kind": "New",
+          "text": "Sitemap orphan warnings with one-click Fix with Site Doctor"
+        },
+        {
+          "kind": "Fixed",
+          "text": "Image overlay no longer glitches the canvas while adjusting tint"
+        },
+        {
+          "kind": "Fixed",
+          "text": "Overlay settings read back correctly after reselecting an image"
+        },
+        {
+          "kind": "Fixed",
+          "text": "Section reorder and Remove revert the preview when they cannot be saved"
+        },
+        {
+          "kind": "Fixed",
+          "text": "False orphan warnings while the sitemap is still mapping page links"
+        },
+        {
+          "kind": "Improved",
+          "text": "Canvas snapshots prioritize visible pages; breakpoint mirrors stay current after edits"
+        }
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "iso": "2026-06-24",
+      "title": "Ship straight to your own Vercel",
+      "notarized": true,
+      "changes": [
+        {
+          "kind": "New",
+          "text": "One-click publish to your own Vercel account. Connect once, then deploy to production from inside the app."
+        },
+        {
+          "kind": "New",
+          "text": "Attach a custom domain with copy-paste DNS records and verification that re-checks itself, live."
+        },
+        {
+          "kind": "New",
+          "text": "A make-public toggle drops the sign-in wall so anyone can view the site."
+        },
+        {
+          "kind": "Improved",
+          "text": "The publish console now bundles Deploy, Domain and Settings into one place."
+        }
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "iso": "2026-06-03",
+      "title": "Components, build once and place anywhere",
+      "notarized": true,
+      "changes": [
+        {
+          "kind": "New",
+          "text": "Promote any section into a reusable component in a single step."
+        },
+        {
+          "kind": "New",
+          "text": "Drop components between sections from a palette. You never touch code."
+        },
+        {
+          "kind": "Improved",
+          "text": "Shared header and footer are protected by default, so a page tweak can never rewrite them."
+        },
+        {
+          "kind": "New",
+          "text": "Import your own HTML onto the canvas and pull it apart into components."
+        }
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "iso": "2026-05-13",
+      "title": "A live map of your whole site",
+      "notarized": true,
+      "changes": [
+        {
+          "kind": "New",
+          "text": "The Sitemap inspector maps every incoming and outgoing link, plus each page level."
+        },
+        {
+          "kind": "New",
+          "text": "Orphan-page warnings the moment a page loses its last link."
+        },
+        {
+          "kind": "Improved",
+          "text": "Rename a route and every link across the header and footer updates automatically."
+        },
+        {
+          "kind": "New",
+          "text": "Dynamic-route templates render data-driven pages from one design."
+        }
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "iso": "2026-04-22",
+      "title": "Design mode gets sharper",
+      "notarized": true,
+      "changes": [
+        {
+          "kind": "New",
+          "text": "Smart section detection. Just say “redesign the hero” and it scopes the work itself."
+        },
+        {
+          "kind": "Improved",
+          "text": "Edits apply as precise diffs. Everything around them stays byte-for-byte identical."
+        },
+        {
+          "kind": "New",
+          "text": "Drag to reorder sections right on the canvas, saved back to the source."
+        },
+        {
+          "kind": "Fixed",
+          "text": "Self-healing builds now recover cleanly from a wider range of errors."
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "iso": "2026-04-01",
+      "title": "Lunarbeam 1.0",
+      "notarized": true,
+      "changes": [
+        {
+          "kind": "New",
+          "text": "Prompt a website and watch it build live, section by section."
+        },
+        {
+          "kind": "New",
+          "text": "Screens for fast HTML pages, and Pro Build for real Next.js projects."
+        },
+        {
+          "kind": "New",
+          "text": "An infinite 60 fps canvas with View, Design, Sitemap and Components modes."
+        },
+        {
+          "kind": "New",
+          "text": "Runs on your existing Claude plan. No API key, no extra bill."
+        }
+      ]
+    }
+  ]
+}
