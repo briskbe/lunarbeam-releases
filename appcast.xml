@@ -26,7 +26,7 @@
 <li>Fixed: Component previews are faster and sharper, preserve responsive layouts, and restore the correct Desktop height after switching breakpoints</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam-0.2.4.dmg" length="17747935" type="application/octet-stream"/>
+            <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam-0.2.4.dmg" length="17747888" type="application/octet-stream" sparkle:edSignature="0QgLwQHIBlnqoa76r2qMhnmOszNbek6rR4da25ySRPIEHuj5u0KDUYdhwAC5yo0m0BhU2oGqQYnN/QtHN/YaCg=="/>
         </item>
     </channel>
 </rss>
