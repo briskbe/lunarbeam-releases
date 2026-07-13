@@ -2,6 +2,70 @@
   "$comment": "Fallback/seed for the changelog page, RSS feed, and download button. In production the site reads the live feed (mac/release.command publishes releases.json to GitHub Pages on every ship); this file is used when that feed is unreachable or empty. Download links are derived from the GitHub release assets automatically — no URL needed. Entries with \"notarized\": false stay hidden until notarization completes.",
   "releases": [
     {
+      "version": "0.2.4",
+      "iso": "2026-07-13",
+      "title": "Lunarbeam 0.2.4",
+      "notarized": true,
+      "changes": [
+        {
+          "kind": "New",
+          "text": "In-app Feedback, Roadmap, What’s New, and privacy-safe bug reporting powered by UserJot"
+        },
+        {
+          "kind": "New",
+          "text": "Release notes now sync automatically to UserJot and the Lunarbeam website changelog"
+        },
+        {
+          "kind": "New",
+          "text": "Redesigned home composer with the full agent, model, and reasoning controls before the first prompt"
+        },
+        {
+          "kind": "New",
+          "text": "Component cards now include true Desktop, Tablet, and Mobile previews plus instant page-usage navigation"
+        },
+        {
+          "kind": "New",
+          "text": "Updated Lunarbeam app icon across the app, Dock, installer, and release build"
+        },
+        {
+          "kind": "Improved",
+          "text": "The Lunar Agent sidebar now uses a cleaner, flatter Codex-inspired design"
+        },
+        {
+          "kind": "Improved",
+          "text": "Best-quality focused edits run thoroughly and continue automatically when they need more time"
+        },
+        {
+          "kind": "Improved",
+          "text": "Component and element edits stay locked to the exact target selected by the user"
+        },
+        {
+          "kind": "Fixed",
+          "text": "New website generation now verifies that the agent changed real files and automatically continues incomplete builds"
+        },
+        {
+          "kind": "Fixed",
+          "text": "Model selection is passed correctly to every provider, with clearer handling for incompatible Codex versions"
+        },
+        {
+          "kind": "Fixed",
+          "text": "Interrupted generations save their recovery state and resume automatically after temporary connection failures"
+        },
+        {
+          "kind": "Fixed",
+          "text": "Component extraction locks conflicting canvas actions until the operation finishes"
+        },
+        {
+          "kind": "Fixed",
+          "text": "Renamed components keep their current identity for later edits, and shared previews no longer display the wrong page or component"
+        },
+        {
+          "kind": "Fixed",
+          "text": "Component previews are faster and sharper, preserve responsive layouts, and restore the correct Desktop height after switching breakpoints"
+        }
+      ]
+    },
+    {
       "version": "0.2.3",
       "iso": "2026-07-09",
       "title": "Lunarbeam 0.2.3",
