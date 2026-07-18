@@ -3,30 +3,20 @@
     <channel>
         <title>Lunarbeam</title>
         <item>
-            <title>0.2.4</title>
-            <pubDate>Mon, 13 Jul 2026 15:21:40 +0200</pubDate>
-            <sparkle:version>0.2.4</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <title>0.2.5</title>
+            <pubDate>Sat, 18 Jul 2026 19:44:00 +0200</pubDate>
+            <sparkle:version>0.2.5</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>:root{color-scheme:light dark}body{font:14px/1.65 -apple-system,system-ui,sans-serif;color:#1d2122;margin:0;padding:16px 18px}h2{font-size:15px;font-weight:600;margin:0 0 12px}ul{margin:0;padding-left:18px}li{margin:6px 0}li::marker{color:#f9a600}@media (prefers-color-scheme:dark){body{color:#e7e9ea}}</style>
-<h2>What’s new in 0.2.4</h2><ul>
-<li>New: In-app Feedback, Roadmap, What’s New, and privacy-safe bug reporting powered by UserJot</li>
-<li>New: Release notes now sync automatically to UserJot and the Lunarbeam website changelog</li>
-<li>New: Redesigned home composer with the full agent, model, and reasoning controls before the first prompt</li>
-<li>New: Component cards now include true Desktop, Tablet, and Mobile previews plus instant page-usage navigation</li>
-<li>New: Updated Lunarbeam app icon across the app, Dock, installer, and release build</li>
-<li>Improved: The Lunar Agent sidebar now uses a cleaner, flatter Codex-inspired design</li>
-<li>Improved: Best-quality focused edits run thoroughly and continue automatically when they need more time</li>
-<li>Improved: Component and element edits stay locked to the exact target selected by the user</li>
-<li>Fixed: New website generation now verifies that the agent changed real files and automatically continues incomplete builds</li>
-<li>Fixed: Model selection is passed correctly to every provider, with clearer handling for incompatible Codex versions</li>
-<li>Fixed: Interrupted generations save their recovery state and resume automatically after temporary connection failures</li>
-<li>Fixed: Component extraction locks conflicting canvas actions until the operation finishes</li>
-<li>Fixed: Renamed components keep their current identity for later edits, and shared previews no longer display the wrong page or component</li>
-<li>Fixed: Component previews are faster and sharper, preserve responsive layouts, and restore the correct Desktop height after switching breakpoints</li>
+<h2>What’s new in 0.2.5</h2><ul>
+<li>Fixed: Design mode now clears stuck reveal blur so selected pages stay sharp.</li>
+<li>Fixed: Expired Claude sign-ins now show the real authentication error and the correct claude auth login action.</li>
+<li>Fixed: Authentication failures no longer appear as completed agent progress.</li>
+<li>Improved: Failed focused edits keep the exact selected target and protect the last working source.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam-0.2.4.dmg" length="17747888" type="application/octet-stream" sparkle:edSignature="0QgLwQHIBlnqoa76r2qMhnmOszNbek6rR4da25ySRPIEHuj5u0KDUYdhwAC5yo0m0BhU2oGqQYnN/QtHN/YaCg=="/>
+            <enclosure url="https://github.com/briskbe/lunarbeam-releases/releases/download/downloads/Lunarbeam-0.2.5.dmg" length="18660891" type="application/octet-stream" sparkle:edSignature="k4Zw1PAvYW3BpiYCddFJ33BgFF22CtDDWnMrAUWjHFrV2miK/cmS5xbsyS6DS7EkzKKCPDFOyfTcnz73+R7PDQ=="/>
         </item>
     </channel>
 </rss>

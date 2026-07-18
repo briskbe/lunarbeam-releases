@@ -2,6 +2,30 @@
   "$comment": "Fallback/seed for the changelog page, RSS feed, and download button. In production the site reads the live feed (mac/release.command publishes releases.json to GitHub Pages on every ship); this file is used when that feed is unreachable or empty. Download links are derived from the GitHub release assets automatically — no URL needed. Entries with \"notarized\": false stay hidden until notarization completes.",
   "releases": [
     {
+      "version": "0.2.5",
+      "iso": "2026-07-18",
+      "title": "Lunarbeam 0.2.5",
+      "notarized": true,
+      "changes": [
+        {
+          "kind": "Fixed",
+          "text": "Design mode now clears stuck reveal blur so selected pages stay sharp."
+        },
+        {
+          "kind": "Fixed",
+          "text": "Expired Claude sign-ins now show the real authentication error and the correct claude auth login action."
+        },
+        {
+          "kind": "Fixed",
+          "text": "Authentication failures no longer appear as completed agent progress."
+        },
+        {
+          "kind": "Improved",
+          "text": "Failed focused edits keep the exact selected target and protect the last working source."
+        }
+      ]
+    },
+    {
       "version": "0.2.4",
       "iso": "2026-07-13",
       "title": "Lunarbeam 0.2.4",
