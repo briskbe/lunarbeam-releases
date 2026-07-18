@@ -26,6 +26,38 @@
       ]
     },
     {
+      "version": "0.2.6",
+      "iso": "2026-07-18",
+      "title": "Lunarbeam 0.2.6",
+      "notarized": true,
+      "changes": [
+        {
+          "kind": "New",
+          "text": "Design Copilot keeps the selected target, direct controls, quick actions, and Lunar Agent together in one focused dock."
+        },
+        {
+          "kind": "New",
+          "text": "Review mode now has a clear comment workflow with numbered pins, a live context bar, Fix All, and Done."
+        },
+        {
+          "kind": "Improved",
+          "text": "Design selections now use clearer element and shared-component states, a brief canvas tether, and calmer one-time motion."
+        },
+        {
+          "kind": "Improved",
+          "text": "Agent progress, questions, and finished changes stay visible in Design mode with immediate Keep or Undo actions."
+        },
+        {
+          "kind": "Improved",
+          "text": "The entire editor has a more polished, consistent light and dark appearance with stronger contrast and responsive controls."
+        },
+        {
+          "kind": "Fixed",
+          "text": "Startup recovery no longer presents project trust UI during SwiftUI state initialization."
+        }
+      ]
+    },
+    {
       "version": "0.2.4",
       "iso": "2026-07-13",
       "title": "Lunarbeam 0.2.4",
